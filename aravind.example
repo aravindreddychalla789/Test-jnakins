@@ -1,0 +1,7 @@
+// Define a function that greets a person
+function greet(name) {
+    console.log("Hello, " + name + "!");
+}
+
+// Call the greet function with a name
+greet("Aravind");
